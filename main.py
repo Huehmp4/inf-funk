@@ -52,7 +52,3 @@ elif inp == 2:
         a:float = float(input('1'))
         b:float = float(input('2'))
         print(f'p graniastoslupa {bryly.granbokrownpodkw(a,b)}')
-    elif inp2 == 4:
-        a:float = float(input('1'))
-        h:float = float(input('2'))
-        print(f'p ostroslupa {bryly.ostpodkwa(a,h)}')
